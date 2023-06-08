@@ -48,3 +48,5 @@ One of the key features of this plugin is the IP lockdown security. It protects 
 == Upgrade Notice ==
 = 1.0 =
 This is the first release of the "Animated Login Page With IP Lockdown Security" plugin. Enjoy the enhanced login page and improved security!
+
+Please note that this plugin is provided as-is, without any warranty. The author and the plugin maintainers shall not be held responsible for any damages or liabilities arising from the use of this plugin.
