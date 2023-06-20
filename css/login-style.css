@@ -2,6 +2,14 @@
 {
 	display: none;
 }
+.admin-email-confirm-form .admin-email__details, .admin-email-confirm-form .admin-email__actions-primary, .admin-email-confirm-form .admin-email__actions-secondary
+{
+	display: block;
+	clear: both;
+	float: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
 .message 
 {
 	color: #217093;
